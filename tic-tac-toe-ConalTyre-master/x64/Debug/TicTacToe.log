@@ -1,0 +1,5 @@
+﻿  TicTacToe.cpp
+C:\Users\csf18tyc\Documents\tic-tac-toe-ConalTyre-master\TicTacToe.cpp(87,1): error C2059:  syntax error: '}'
+C:\Users\csf18tyc\Documents\tic-tac-toe-ConalTyre-master\TicTacToe.cpp(86,10): error C2297:  '*': illegal, right operand has type 'char *'
+C:\Users\csf18tyc\Documents\tic-tac-toe-ConalTyre-master\TicTacToe.cpp(86,10): error C2100:  illegal indirection
+C:\Users\csf18tyc\Documents\tic-tac-toe-ConalTyre-master\TicTacToe.cpp(87,1): error C2143:  syntax error: missing ')' before '}'
